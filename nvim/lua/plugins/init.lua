@@ -8,6 +8,7 @@ return {
   -- Supermaven inline AI completions
   {
     "supermaven-inc/supermaven-nvim",
+    enabled = false, -- disabled for now
     -- make commands available and load plugin when they are executed
     cmd = {
       "SupermavenStart",
