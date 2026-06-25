@@ -6,8 +6,7 @@
 local M = {}
 
 M.base46 = {
-	theme = "gruvbox",
-	-- hl_override removed to let gruvbox colors apply naturally
+	theme = "adwaita_darker",
 }
 
 -- M.nvdash = { load_on_startup = true }
